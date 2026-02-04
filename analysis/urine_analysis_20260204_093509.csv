@@ -1,0 +1,11 @@
+Pad,Analyte,Level,Value,Unit
+1,Glucose,6,≥2000(110),mg/dL (mmol/L)
+2,Bilirubin,3,4(70),mg/dL (µmol/L)
+3,Ketone,5,160(16),mg/dL (mmol/L)
+4,Specific Gravity,6,1.030,
+5,Blood,6,50 Ery/µL,Ery/µL
+6,pH,6,9.0,
+7,Protein,5,2000(20),mg/dL (g/L)
+8,Urobilinogen,5,12(200),mg/dL (µmol/L)
+9,Nitrite,2,+,
+10,Leukocyte,4,500 +++,Leu/µL
